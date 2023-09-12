@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>587730961922-rh0e0791l7kbnn33nih87snk6ulr3vdj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.587730961922-rh0e0791l7kbnn33nih87snk6ulr3vdj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALYdNlJFpo_2k9qH-2ycpcZQ-0yrl3L0E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>587730961922</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>willccreations.firebase1</string>
+	<key>PROJECT_ID</key>
+	<string>fir-1-948eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-1-948eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:587730961922:ios:f8de530bfce53cf3e5891b</string>
+</dict>
+</plist>
